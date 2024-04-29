@@ -1,0 +1,37 @@
+p{
+    color: red;
+    font-size: 9rem;
+    margin:0;
+    display: flex;
+}
+body{
+    margin:0;
+    display: flex;
+}
+section{
+    background-color: brown;
+    height: 150vh;
+    width: 100vh;
+    margin: 0;
+}
+.klj{
+    background-color:rgb(65, 16, 54);
+    font-size: 5rem;
+}
+.hero{
+    background-color: #12372A;
+    color: rgb(13, 40, 19);
+    height: 100vh;
+    display: flex;
+    font-size: 7rem;
+    font-family: "Dancing Script", cursive;
+}
+.korobka{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;
+}
